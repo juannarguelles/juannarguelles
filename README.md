@@ -1,6 +1,6 @@
 ### Hi, I'm Juan Arguelles 👋
 
-![profile](https://user-images.githubusercontent.com/73196936/200318543-95427f8a-9ea3-47cf-b981-e2137f89215c.jpg)
+![profile](https://user-images.githubusercontent.com/73196936/207115619-91c3b812-92e2-424b-8dec-f742b8249648.jpg)
 
 ```js
 const me = {
